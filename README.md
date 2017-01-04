@@ -13,7 +13,7 @@ Under the covers, uses [cheeriojs](https://github.com/cheeriojs/cheerio) to do t
 npm install regex-viewer --save
 ```
 
-The just do your regex, and call this NPM module when you want to see a result
+Write your regex, and call this NPM module when you want to see a result
 
 #### Example:
 
@@ -27,8 +27,6 @@ var regex = /is/gi;
 
 viewer(str, regex)
 ```
-
-Note:  Fyi only, to quickly see this code run live, you can clone this repo, and run `npm run test`
 
 #### Result.
 

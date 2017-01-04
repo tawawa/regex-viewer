@@ -1,7 +1,7 @@
 {
   "name": "regex-viewer",
   "description": "A simple regex viewer from node.js - no need to mess with HTML",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Richard Seldon<arcseldon@gmail.com>",
   "scripts": {
     "test": "node test.js"
