@@ -1,0 +1,28 @@
+{
+  "name": "regex-viewer",
+  "description": "A simple regex viewer from node.js - no need to mess with HTML",
+  "version": "1.0.0",
+  "author": "Richard Seldon<arcseldon@gmail.com>",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tawawa/regex-viewer.git"
+  },
+  "keywords": [
+    "regex",
+    "viewer"
+  ],
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "html": "^1.0.0",
+    "open": "0.0.5",
+    "ramda": "^0.23.0"
+  },
+  "main": "./index.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
